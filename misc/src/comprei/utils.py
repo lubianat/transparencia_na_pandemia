@@ -57,27 +57,45 @@ def descrever_tipo(classes):
     
     
     
-def plot_corpus_with_classes(df, filename):
+def plot_corpus_with_labels(df, filename):
     print_tipos()
     g = sns.scatterplot(x="d1", y="d2",
-              hue="classes",
+              hue="labels",
               data=df);
 
     plot = g.get_figure()
     plot.savefig(filename)
     
     
-def classificar(file_content_splitted):
-    classes = []
+def classificar(df):
+    """
+    
+    
+    Args
+        A dataframe with columns for text and id
+        
+    Returns
+        dict: A dictionary with the user defined classes.
+        
+    
+    
+    """
+    classes = {}
+    for i, row in df.iterrows():
+        classes[row["id"]] = "unlabeled"
+        
 
-    if input('classificar?(y/n)') == 'y':
-        for i in file_content_splitted:
-            print(i)
-            print_tipos()
-            class_of_snippet = input("Qual é o tipo que mais se aproxima desse snippet?")
+    for i, row in df.iterrows():
+        print(row["text"])
+        print_tipos()
+        class_of_snippet = input("Qual é o tipo que mais se aproxima desse snippet?")
 
-            classes.append(class_of_snippet)
-            clear_output()
+        classes[row["id"]] = class_of_snippet
+        clear_output()
+
+        if input('continuar?(y/n)') == 'n':
+            break
+                
     
     return(classes)
     print(classes)

@@ -1,4 +1,5 @@
--aproximadamente 32 mil testes      para a escolha do domicílio e do     independentemente do resul-        Estado”, disse.
+,text,id,label,d1,d2,inferred_labels,labels_after_prop
+0,"-aproximadamente 32 mil testes      para a escolha do domicílio e do     independentemente do resul-        Estado”, disse.
 -em 27 municípios selecionados.     cidadão que participará do ques-     tado do teste, essa pessoa será       Para o desenvolvimento do
 -   De acordo com o secretá-        tionário a ser aplicado por técni-   orientada ou, se necessário, en-   Inquérito Sorológico, foram de-
 -rio de Estado da Saúde, Nésio      cos da saúde.                        caminhada para k atendimento       finidas quatro fases de planeja-
@@ -19,7 +20,8 @@
 -decisões de Governo”, explicou.    rão paramentados com equipa-         das de contenção da doença.        Universidade Federal do Espí-
 -                                   mentos de proteção individual,          A utilização desse modelo,      rito Santo (Ufes) e da Organiza-
 -Atuação em campo                   além de terem suas credenciais       de acordo com o gerente da         ção Pan-Americana da Saúde
-==========
+",text_1,6,0.0991643790905546,0.08270220187680989,6,
+1,"
 -TORNA PÚBLICO AOS INTERESSADOS QUE ESTÁ ABERTO O PROCESSO DE PESQUISA DE PREÇO PELO PRAZO DE 24
 -(Vinte e QUATRO) horas, A CONTAR DESTA PUBLICAÇÃO. PRAZO ESTE QUE PODERÁ SER INFERIOR CASO OBTENHA-SE
 -O NÚMERO SUFICIENTE DE COTAÇÕES.
@@ -41,7 +43,8 @@
 -Presidente Kennedy-ES, 17/04/2020
 -
 -
-==========
+",text_2,3,0.305127464096874,0.1294796630940982,3,
+2,"
 -                                                                                                     Publicação Nº 274692
 -
 -FUNDO MUNICIPAL DE SAÚDE, DO MUNICÍPIO DE JAGUARÉ
@@ -75,7 +78,8 @@
 -Dayana Mara dos Santos Silva Bizi
 -Secretária Municipal de Saúde
 -
-==========
+",text_3,1,0.45605792527944033,0.19800273491581474,1,
+3,"
 -necessidades do setor de obras e manutenção                              para ações de enfrentamento ao COVID-
 -predial, para ampliação e reforma dos espaços                            19.Número e Modalidade da Licitação: Dispensa
 -pertencentes à Secretaria Municipal de Saúde e                           de Licitação nº 161/SMA/DSLC/2020; Contratado:
@@ -97,7 +101,8 @@
 -maio de 2020, às 15h30min. Endereço eletrônico:                          conferidas pelas Leis Complementares Nº
 -http://dlc.pmf.sc.gov.br. O Pregoeiro.                                   618/2017 e 655/2018 e pelos Decretos Municipais
 -                                                                         Nº 17.799/2017 e 20.572/2019, CONSIDERANDO a
-==========
+",text_4,4,0.3600830053308775,0.049157600058851406,4,
+4,"
 -
 -
 -
@@ -119,7 +124,8 @@
 -
 -ID: 2020.025E0700001.09.0013
 -
-==========
+",text_5,1,0.3760522306989473,-0.03875533355321516,1,
+5,"
 -                                  Salvador, 29 de maio de 2020.
 -                                                                                                                                       Salvador, 28 de maio de 2020
 -                                    JOSÉ EGÍDIO DE SANTANA
@@ -141,7 +147,8 @@
 -COVID-19)
 -PRAZO DE ENTREGA: Imediato                                                                          DOTAÇÃO ORÇAMENTÁRIA: Projeto Atividade 10.122.0002.263000; Elemento de Despesa
 -DATA DO ATO: 25/05/2020                                                                             33.90.30; Fonte de Recurso: 091 (Operações de Crédito Externas - Recursos de Ressarcimento de
-==========
+",text_6,1,0.4917578286688806,-0.38757703680022,1,
+6,"
 -   PORTARIA Nº 452-REM.SEMUS/GAB/ASSEX/GGPFP,
 -              DE 28 DE ABRIL DE 2020                                                       DANIEL BORINI ZEMUNER
 -                                                                                             Secretário da Saúde
@@ -163,7 +170,8 @@
 -       CONSIDERANDO que a movimentação de servidores é                  no uso de suas atribuições legais que lhe confere o artigo 80, inciso
 -imprescindível para a manutenção do funcionamento permanente            IV, da Lei Orgânica do Município de Palmas, combinado comas
 -dos órgãos do Poder Executivo Municipal.                                prerrogativas dos artigos 40, inciso X e 41 e o SECRETÁRIO
-==========
+",text_7,6,0.2874000631328542,-0.013026825865187493,6,
+7,"
 -IV, da Lei Orgânica do Município de Palmas, combinado com as            contaminação.
 -prerrogativas dos artigos 40, inciso X e 41, da Lei no 2.299, de 30
 -de março de 2017.                                                               CONSIDERANDO a Nota Técnica nº 11/2020-DESF/SAPS/
@@ -216,7 +224,8 @@
 -ao trabalho dos profissionais da saúde e segurança.
 -                                                                        FRIO REFRIGERAÇÃO LTDA - ME, CNPJ n° 37.582.814/0001-91.
 -        Parágrafo Único, caso o resultado do teste seja POSITIVO,       DATA DE ASSINATURA: 08 de abril de 2020.
-==========
+",text_8,6,0.3916808652397251,0.06347443655531121,6,
+8,"
 -E REPRESENTAÇÕES DE PRODUTOS HOSPITALARES LTDA, Inscrita no CNPJ sob o nº 05.343.029/0001-90, estabelecida
 -na Rua Dois, snº, Quadra 008 Lote 008, Bairro Civit I, Serra/ES, CEP: 29.168-030, conforme descrição abaixo:
 -
@@ -238,7 +247,8 @@
 -           dias após a infecção;
 -           - teste embalados individualmente;
 -
-==========
+",text_9,1,0.24143351977817035,0.05717441910334401,1,
+9,"
 -
 -
 -
@@ -260,7 +270,8 @@
 -
 -
 -PARTES – Secretaria Municipal de Saúde de Aracruz e a Empresa abaixo relacionada.
-==========
+",text_10,1,0.4433195876569445,-0.09203810824952137,1,
+10,"
 -
 -MEDLEVENSOHN COMERCIO E REPRESENTACOES DE PRODUTOS HOSPITALARES LTDA - CNPJ 05.343.029/00001-90 -
 -Valor R$ 37.200,00 (trinta e sete mil e duzentos reais).
@@ -282,7 +293,8 @@
 -Secretária de Saúde
 -Decreto nº 33.742, de 19/02/2018
 -
-==========
+",text_11,1,0.3441407334751928,0.04024607534433395,1,
+11,"
 -
 -EXTRATO DO CONTRATO DE AQUISÇÃO Nº 012/2020 QUE ENTRE SI CELEBRAM O MUNICIPIO DE
 -ANCHIETA ES ATRAVÉS DO FUNDO MUNICIPAL DE SAÚDE E A EMPRESA MEDLEVENSOHN COMÉR-
@@ -304,7 +316,8 @@
 -                  Secretaria                                                        Fonte de Recurso             Ficha
 -                                                Funcional              Despesa
 -
-==========
+",text_12,1,0.3242890134076725,-0.0136722904629583,1,
+12,"
 -        I – Utilizar equipamento de proteção individual (EPI), avental,     indicados a partir de sete dias após o início dos sintomas, ressaltando
 -óculos de proteção, touca, luvas descartáveis e máscara cirúrgica;          que na maioria dos casos podem ocorrer viragem sorológica mais tardia;
 -        II – Fazer uso das medidas de biossegurança para a manipulação
@@ -353,8 +366,9 @@
 -
 -                                                                                  Documento assinado digitalmente conforme MP nº 2.200-2 de 24/08/2001, que
 -                                                                                  institui a Infraestrutura de chaves Públicas Brasileira - ICP
-==========
-- rápidos" (ensaios imunocromatográficos) para a COVID-19 em farmácias;
+",text_13,6,0.21066602567825077,0.1414550373292979,6,
+13,"
+- rápidos"" (ensaios imunocromatográficos) para a COVID-19 em farmácias;
 - Considerando a Nota Técnica n° 97/2020/SEI/GRECS/GGTES/DIRE1/ANVISA, que orienta para a utilização de testes rápidos (ensaios
 - imunocromatográficos) para COVID-19 em farmácias privadas durante o período de pandemia,
 -
@@ -368,8 +382,8 @@
 - farmácias e drogarias com Alvará Sanitário vigente e Autorização de Funcionamento.
 -
 -
-- Parágrafo único. Somente poderão prestar esse serviço os estabelecimentos que possuírem em seu Alvará Sanitário a atividade de "Serviços
-- Farmacêuticos".
+- Parágrafo único. Somente poderão prestar esse serviço os estabelecimentos que possuírem em seu Alvará Sanitário a atividade de ""Serviços
+- Farmacêuticos"".
 -
 -
 : Art. 2° Os estabelecimentos que optarem por realizar o teste rápido (ensaios imunocromatográficos) para COVID 19 deverão:
@@ -390,7 +404,8 @@
 - X - estabelecer procedimento escrito (POP) que deve contemplar:
 -                                          Diário Oficial do Município
 -                                                Edição Nº 1251 - Ordinária
-==========
+",text_14,6,0.1463641836705597,0.1302605304072059,6,
+14,"
 -
 -MUNICÍPIO DE GRAVATAI
 -Gabinete do Prefeito
@@ -412,7 +427,8 @@
 - Art. 4° As orientações aos pacientes após a realização do teste, de resultados positivos e negativos por COVID-19, devem seguir as Diretrizes e os
 - Protocolos estabelecidos pelo Ministério da Saúde para o correto manejo dos pacientes e informações epidemiológicas.
 -
-==========
+",text_15,6,0.11690778788172439,0.1529698400357213,6,
+15,"
 -2        74       1876       50         UND          Soro Anti-A, frasco com 10ml                                                 EBRAM          18,90         945,00
 -2        75       1877       50         UND          Soro Anti-B, frasco com 10ml                                                 PROTHEMO       18,90         945,00
 -2        76       1878       50         UND          Soro coombs, frasco com 10ml                                                 PROTHEMO       25,50         1.275,00
@@ -453,7 +469,8 @@
 -                                                     Preço da caixa com 20 testes
 -
 -
-==========
+",text_16,1,0.20355533240021292,0.032821547010215855,1,
+16,"
 -
 -Fornecedor: LCI PRODUTOS DIAGNÓSTICOS LTDA, inscrito(a) no CNPJ sob                                nº. 07.293.786/0001-21, com sede na cidade de Colombo/PR, à Avenida
 -Londres, nº 199, Jardim Bandeirantes, CEP 83.405-110, fone/fax (41) 3666-0234/(41) 3666-0234, por seu representante legal, ao final assinado, com o valor total de R$
@@ -475,7 +492,8 @@
 -                                                      individuais para teste. Preço da caixa com 20 testes
 -
 -
-==========
+",text_17,1,0.22238543866353233,0.03515670141739771,1,
+17,"
 -    Fornecedor: FIGUEIREDO COMÉRCIO DE ARTIGOS MÉDICOS EIRELI EPP
 -                                                                                      DISPENSO o procedimento licitatório, com base no artigo
 -         Item: 29                              R$ 0,75
@@ -497,7 +515,8 @@
 -                                                                       milhões e duzentos mil reais).
 -
 -                                                     DOM | Edição 4826 | Página 8
-==========
+",text_18,1,0.3480113107484815,-0.017361628353299553,1,
+18,"
 -Objeto: Assinatura Jornal - DIÁRIO OFICIAL DO ESTADO - DOE
 -Célula Orçamentária: 2501. 33.90.39 - Outros Serviços de Terceiros - Pessoa Jurídica                                                       JOSÉ EGÍDIO DE SANTANA
 -Fonte 000                                                                                                                                  Presidente da COPEL/SMS
@@ -519,7 +538,8 @@
 -Pública Municipal, a suspensão “sine die” da sessão de abertura da seguinte licitação: Concorrência    PRAZO DE ENTREGA: Imediato
 -nº 01/2020-Processo nº 3597/2019-Tipo: Técnica e Preço. Objeto: PRESTAÇÃO DE SERVIÇOS                  DATA DO ATO: 26/03/2020
 -ESPECIALIZADOS, DO SETOR DO AUDIO VISUAL, QUE APRESENTE PLANO DE TRABALHO
-==========
+",text_19,1,0.5355582845811392,-0.35056657767483745,1,
+19,"
 -                                    AMAURI GUIMARÃE PIRES
 -                                         Presidente                                                                               JAQUELINE MACEDO BARBOZA DE BARROS
 -                                                                                                                                          Presidente da Comissão
@@ -541,7 +561,8 @@
 -                         SUBAÇÃO                                    FONTE                             PRAZO DE ENTREGA: Imediato
 -    ENTIDADE                                DESPESA                             ESTIMADO (R$)
 -       FCM                250111             33.90.36               0.1.00         5.000,00           DATA DO ATO: 31/03/2020
-==========
+",text_20,1,0.5404719659843022,-0.46286488333597514,1,
+20,"
 -Públicos da Administração Direta e Indireta dos Poderes do              sede na Quadra 1302 Sul, Lote 06, Conjunto 01, Avenida Teotônio
 -Município de Palmas.                                                    Segurado, Palmas-TO, representada neste ato pelo Secretário
 -                                                                        Municipal da Saúde, Senhor DANIEL BORINI ZEMUNER, brasileiro,
@@ -563,7 +584,8 @@
 -ESPÉCIE: CONTRATO DE FORNECIMENTO                                      de Unidade de Terapia Intensiva – UTI, Leitor Clínicos e Oxigênio
 -CONTRATANTE: MUNICÍPIO DE PALMAS / SECRETARIA                          Hospitalar para atendimento exclusivo dos pacientes com
 -MUNICIPAL DA SAÚDE CONTRATADA: UZZO COMERCIO E                         COVID-19.
-==========
+",text_21,6,0.27882214763506386,0.05069364890269854,6,
+21,"
 -  Realização de Prova do Laço para avaliação de pessoas com quadro clínico suspeito de dengue
 -  Remoção de cerume de conduto auditivo externo (lavagem otológica)
 -  Retirada de pontos
@@ -589,7 +611,8 @@
 - Fone/Fax: 3524-1515 | e‐mail: dvcc.sms@gmail.com
 -
 -
-==========
+",text_22,6,0.0735313690146169,0.07455685403233492,6,
+22,"
 -Polícias Militares, Ordens ou Conselhos Federais, válidos                    PREFEITURA MUNICIPAL DE BOA VISTA
 -como identidade civil nacional);                                             COMISSÃO PERMANENTE DE LICITAÇÃO
 -        • Cadastro de Pessoa Física e Comprovante de Situ-                        GABINETE DA PRESIDÊNCIA
@@ -611,7 +634,8 @@
 -        Entrega das Propostas: a partir de 22/05/2020 às        abastecimento e manutenção), para atender as demandas
 -9h (Horário de Brasília) no sítio www.comprasnet.gov.br .       da Vigilância em Saúde/SMSA, cuja adjudicação do item 1
 -        Início da Disputa: 28/05/2020 às 10h (Horário de        foi a favor da empresa TR2 – ELÉTRICA E SERVIÇOS EIRELI
-==========
+",text_23,3,0.25050881304943057,0.06987893213440899,3,
+23,"
 -                                                                                                                     semiquantitativa de, no
 -           CIENTIFIQUE-SE, PUBLIQUE-SE, CUMPRA-SE.                                                                   mínimo, 10 parâmetros na
 -                                                                                                                     urina:               sangue,
@@ -633,7 +657,8 @@
 -                       DISPENSA DE LICITAÇÃO                                                                         reativas       da        tira,
 -                                                                                                                     embalagem        com,      no
 -                                                                                                                     mínimo, 100 tiras, escala
-==========
+",text_24,6,0.09066747352765121,0.00635372639634024,1,
+24,"
 -    Fornecedor: FIGUEIREDO COMÉRCIO DE ARTIGOS MÉDICOS EIRELI EPP
 -                                                                                      DISPENSO o procedimento licitatório, com base no artigo
 -         Item: 29                              R$ 0,75
@@ -655,7 +680,8 @@
 -                                                                       milhões e duzentos mil reais).
 -
 -                                                     DOM | Edição 4826 | Página 8
-==========
+",text_25,1,0.3480113107484815,-0.017361628353299553,1,
+25,"
 -INSTAURA SINDICÂNCIA ADMINISTRATIVA E DÁ OUTRAS PROVIDENCIAS.
 -
 -
@@ -677,7 +703,8 @@
 -
 -                                                                                                  www.diariomunicipal.es.gov.br
 -01/06/2020 (Segunda-feira)                         DOM/ES - Edição N° 1526                                            Página 47
-==========
+",text_26,6,0.17518071888991982,0.0823812793407576,6,
+26,"
 -                                                   Prefeitura
 -
 -FMS-DISP0011-2020-RESUMO RATIFICAÇÃO
@@ -704,7 +731,8 @@
 -Secretária Municipal de Saúde
 -
 -
-==========
+",text_27,1,0.3715154679352959,0.163995800745728,1,
+27,"
 -AVISO
 -                                                                                                      Publicação Nº 275239
 -
@@ -726,7 +754,8 @@
 -
 -
 -Informações pelos telefones: (27) 3745-1549 ou (27) 9 9945-6991
-==========
+",text_28,6,0.21531112894394303,0.5674205554239959,6,
+28,"
 -tos.sp.gov.br.
 -
 -                             PREGÃO ELETRÔNICO Nº 15.016/2020
@@ -748,7 +777,8 @@
 -  Acha-se aberto na Secretaria Municipal de Saúde, o Pregão Eletrônico nº 15.017/2020 – Processo nº
 -68.681/2019-41, que tem como objeto a seleção de propostas para REGISTRO DE PREÇOS visando ao
 -fornecimento de medicamentos: DIAZEPAM 5 MG/ML; ALTEPLASE 50 MG; ANLODIPINO BESILATO 5 MG;
-==========
+",text_29,3,0.26105641596085627,0.09141430758056215,3,
+29,"
 -
 -                                           LIZIANE DOS SANTOS BAUM, Secretária-Adjunta da Fazenda.
 -
@@ -770,7 +800,8 @@
 -                                                ABERTURA DE LEILÃO ELETRÔNICO
 -       O MUNICÍPIO DE PORTO ALEGRE, através da Superintendência de Licitações e Contratos da Secretaria Municipal da
 -       Fazenda, torna pública a abertura da licitação abaixo, na modalidade LEILÃO, do tipo MAIOR LANCE, cujo edital e seus anexos
-==========
+",text_30,3,0.24393749361780628,0.039931238406851595,3,
+30,"
 -necessidades do setor de obras e manutenção                              para ações de enfrentamento ao COVID-
 -predial, para ampliação e reforma dos espaços                            19.Número e Modalidade da Licitação: Dispensa
 -pertencentes à Secretaria Municipal de Saúde e                           de Licitação nº 161/SMA/DSLC/2020; Contratado:
@@ -792,7 +823,8 @@
 -maio de 2020, às 15h30min. Endereço eletrônico:                          conferidas pelas Leis Complementares Nº
 -http://dlc.pmf.sc.gov.br. O Pregoeiro.                                   618/2017 e 655/2018 e pelos Decretos Municipais
 -                                                                         Nº 17.799/2017 e 20.572/2019, CONSIDERANDO a
-==========
+",text_31,4,0.3600830053308775,0.049157600058851406,4,
+31,"
 -06 de abril de 2020. CARLOS ALBERTO JUSTO DA                            Ordenador do Fundo Municipal de Saúde, o Sr.
 -SILVA - Secretário Municipal de Saúde.                                  Carlos Alberto Justo da Silva e Sra. Fernanda
 -                                                                        Gomes de Borba e Bernhardt e o Sr. Tarcis Sawaia
@@ -814,7 +846,8 @@
 -alterada pela Medida Provisória 926, de                                 39/SMS/GAB/ADJ/ACCC/CON/2020             e      na
 -20/03/2020, os Decretos Estaduais n. 509 de 2020,                       Deliberação nº 5059/2020, partes integrantes
 -515 de 2020, 525 de 2020 e 535 de 2020, e os                            deste Termo Aditivo; Número e Modalidade da
-==========
+",text_32,6,0.41428037803682133,-0.005282241610663296,6,
+32,"
 -
 -                                                            ATOS OFICIAIS CODAU
 -                                                                         C.P.L
@@ -836,7 +869,8 @@
 - De acordo.
 -
 - Na forma especificada nestes autos, RATIFICO a situação de Dispensa de Licitação, com apoio no artigo 26 caput, da Lei Federal nº. 8.666/93, devendo ser
-==========
+",text_33,1,0.3634194769129711,-0.1513936486704397,1,
+33,"
 -
 -                                                                                                   Tornar sem efeito por incorreção a Dispensa de Licitação nº. 050/2020, Processo nº 6215/2020,
 -PROCESSO Nº: 6215/2020
@@ -858,7 +892,8 @@
 -
 -Artigo 4º, da Lei Federal n° 13.979/2020
 -
-==========
+",text_34,-1,0.5602148521390327,-0.33831164004095177,1,1
+34,"
 -
 -                                                                                                         EDITAIS
 - SECRETARIA MUNICIPAL DA SAÚDE - SMS
@@ -880,7 +915,8 @@
 -
 -
 -
-==========
+",text_35,-1,0.2941431126378026,0.016997191720016104,1,3
+35,"
 -        1. Aprovação das Contas do V Bimestre de 2019;
 -
 -        2. Aprovação da PAS 2020;
@@ -902,7 +938,8 @@
 -do município.
 -
 -
-==========
+",text_36,-1,0.07750063832331044,0.05014833707299642,6,
+36,"
 - Oitenta e oito (88) Testes de PCR foram encaminhados ao laboratório FUNED até o dia
 - 05/05/2020, sendo que destes, ainda são aguardados 10 (dez) resultados.
 -
@@ -924,7 +961,8 @@
 -
 -Av. Guilherme Ferreira, 1539 – CEP 38022-200 – (34) 3331-2717 –
 -www.uberaba.mg.gov.br
-==========
+",text_37,-1,0.17565468443468227,0.0838602991415997,6,
+37,"
 -                              soro. A embalagem deverá conter os controles
 -                              positivo e negativo.
 -
@@ -946,7 +984,8 @@
 -
 -  Valor total do processo: R$ 84.660,00 (Oitenta e quatro mil seiscentos e sessenta reais)
 -
-==========
+",text_38,-1,0.23598047946776984,-0.058910319193271936,1,1
+38,"
 -LOCATÁRIA: Secretaria Municipal de Saúde/Fundo Municipal de Saúde
 -LOCADOR: Cepheid Brasil Importação, Exportação e Comércio de Produtos de Diagnósticos.
 -
@@ -968,7 +1007,8 @@
 -VALOR DO ADITIVO: A CONTRATANTE pagará a CONTRATADA o valor total de R$
 -17.759,58 (dezessete mil, setecentos e cinquenta e nove reais e cinquenta e oito centavos),
 -reajustado conforme índice do IGP-M de 7,317910% correspondente ao período.
-==========
+",text_39,-1,0.30722309570771766,-0.021367164540066545,6,
+39,"
 -
 -
 -
@@ -995,7 +1035,8 @@
 -Secretária Municipal de Saúde
 -
 -
-==========
+",text_40,-1,0.453664483481105,0.20256644917340705,1,1
+40,"
 -                                                                        termos da Lei n° 2.310 de 09 de maio de 2017.
 -        CONSIDERANDO o § 3°, do art. 2º, da Lei Municipal nº
 -2.324, de 13 de julho de 2017.                                                             DANIEL BORINI ZEMUNER
@@ -1017,7 +1058,8 @@
 -        RESOLVE:                                                        atribuições conferidas pela Lei nº 8.080, de 19 de setembro de 1990
 -                                                                        e pela Lei Municipal n° 2.310 de 09 de maio de 2017;
 -       Art. 1º Dispensar as servidoras adiante relacionadas, das
-==========
+",text_41,-1,0.2839038416650206,0.021444842153227037,6,
+41,"
 -        Equipe Técnica de Referência dos Centros de Saúde -             e dá outras providências;
 -        GTR II
 -        CORINA RODRIGUES MACHADO                                                 CONSIDERANDO, a Lei nº142 de 20 de dezembro de 1991,
@@ -1039,7 +1081,8 @@
 -                                                                                        ANTÔNIO GRANGEIRO SARAIVA
 -CONSELHO MUNICIPAL DE SAÚDE                                                                       Presidente
 -                                                                                          Conselho Municipal de Saúde
-==========
+",text_42,-1,0.18508146376942142,0.0756628698867882,6,
+42,"
 -
 -Lucas Antunes de Sá
 -Presidente da CPL
@@ -1061,7 +1104,8 @@
 -Base Legal: Art. 4º da Lei 13.979/20.
 -AUTORIZAÇÃO: Autorizo a presente RATIFICAÇÃO DE DISPENSA DE LICITAÇÃO.
 -
-==========
+",text_43,-1,0.43376274457109476,-0.07297841706567579,1,1
+43,"
 -
 -
 -
@@ -1083,7 +1127,8 @@
 -
 -
 -
-==========
+",text_44,-1,0.207562669489003,0.012919184580974286,1,6
+44,"
 -                                                                                                                                                               01 A 04 DE MAIO DE 2020
 -                                                                                                                                                                   ANO XXXIII | N º 7.641
 -
@@ -1105,7 +1150,8 @@
 -PRAZO DE ENTREGA: Imediato                                                                          Tornar sem efeito por incorreção a Dispensa de Licitação nº. 050/2020, Processo nº 6215/2020,
 -DATA DO ATO: 26/03/2020                                                                             publicada no DOM nº 7.608 de 27 de março de 2020, página 35.
 -                                                                                                    Dispensa de Licitação nº. 050/2020 - CONTRATADA: PMH PRODUTOS MÉDICOS HOSPITALARES LTDA
-==========
+",text_45,-1,0.5516377644393528,-0.40639413053423656,1,1
+45,"
 -
 -
 -                                  Consórcios Intermunicipais
@@ -1127,7 +1173,8 @@
 -       1.2         ELETROCARDIOGRAMA                                                                        12,00
 -       1.3         ECODOPPLERCARDIOGRAMA OU ECOCARDIOGRAMA (TRANSTORÁCICO)                                  120,00
 -
-==========
+",text_46,-1,0.2353557157960814,0.550110599040507,6,
+46,"
 -     23.20         CONSULTA MEDICA ESPECIALIZADA EM ONCOLOGIA                                                    42,00
 -
 -     23.21         CONSULTA MEDICA ESPECIALIZADA EM MASTOLOGIA                                                   42,00
@@ -1149,7 +1196,8 @@
 -ATA DE APURAÇÃO – 8ª SESSÃO – CHAMAMENTO PÚBLICO Nº 003/2019
 -Aos trinta dias do mês de abril do ano de dois mil e vinte, às dez horas, na sede do Consórcio Público da Região Noroes-
 -te – CIM NOROESTE, localizado na Av. João Quiuqui, nº 26, centro, Águia Branca - Estado do Espírito Santo, reuniu-se
-==========
+",text_47,-1,0.1845387547022136,0.31367523332989794,6,
+47,"
 -
 -                                                                                                   www.diariomunicipal.es.gov.br
 -19/05/2020 (Terça-feira)                            DOM/ES - Edição N° 1517                                   Página 25
@@ -1171,7 +1219,8 @@
 -      1.2        ELETROCARDIOGRAMA                                                                          12,00
 -      1.3        ECODOPPLERCARDIOGRAMA OU ECOCARDIOGRAMA (TRANSTORÁCICO)                                    120,00
 -
-==========
+",text_48,-1,0.2645316750019174,0.5039554961249162,6,
+48,"
 -    23.20        CONSULTA MEDICA ESPECIALIZADA EM ONCOLOGIA                                                    42,00
 -
 -    23.21        CONSULTA MEDICA ESPECIALIZADA EM MASTOLOGIA                                                   42,00
@@ -1193,7 +1242,8 @@
 -
 -                                               Consórcio Público CONDOESTE
 -
-==========
+",text_49,-1,0.17000914380317153,0.2936424762849271,1,6
+49,"
 -                                    AMAURI GUIMARÃE PIRES
 -                                         Presidente                                                                               JAQUELINE MACEDO BARBOZA DE BARROS
 -                                                                                                                                          Presidente da Comissão
@@ -1215,7 +1265,8 @@
 -                         SUBAÇÃO                                    FONTE                             PRAZO DE ENTREGA: Imediato
 -    ENTIDADE                                DESPESA                             ESTIMADO (R$)
 -       FCM                250111             33.90.36               0.1.00         5.000,00           DATA DO ATO: 31/03/2020
-==========
+",text_50,-1,0.5404719659843022,-0.46286488333597514,1,1
+50,"
 -                                                                                                   Publicação Nº 275875
 -
 -FUNDO MUNICIPAL DE SAÚDE, DO MUNICÍPIO DE JAGUARÉ
@@ -1243,7 +1294,8 @@
 -Secretária Municipal de Saúde
 -
 -
-==========
+",text_51,-1,0.43398673422471334,0.19877908741539307,1,1
+51,"
 -   Acha-se aberto na Secretaria Municipal de Saú-          sa(s) vencedora(s), conforme segue:
 -de, o Pregão Eletrônico nº 15.085/2020 – Processo
 -nº 76.490/2019-07, que tem como objeto a seleção             FORCE MEDICAL DISTRIBUIDORA EIRELI - EPP
@@ -1265,7 +1317,8 @@
 -      PERMANENTE DE LICITAÇÃO - SAÚDE                        Santos, 07 de maio de 2020.
 -
 -                                                                     TATHIANA SILVA PEREIRA
-==========
+",text_52,-1,0.2963084222524194,0.09431655852882065,4,
+52,"
 -                                                  ncipal
 -                                17180141000       Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho - Princip         2.000.000,00      333.332,00      333.332,00      333.332,00      333.332,00      333.332,00        333.340,00
 -                                                  al
@@ -1287,7 +1340,8 @@
 -
 -                                E&L Contabilidade Pública Eletrônica [S]                                                                                    Page 2 of 5                                                                   E&L Produções de Software LTDA
 -
-==========
+",text_53,-1,0.1100176246255123,-0.014878800413444476,1,6
+53,"
 -                                                   Prefeitura
 -
 -RESUMO DE CONTRATO
@@ -1309,7 +1363,8 @@
 -DATA DE ASSINATURA: 29/04/2020.
 -
 -
-==========
+",text_54,-1,0.43528134310285,-0.041651520202362756,1,1
+54,"
 -                              positivo e negativo.
 -
 -Valor total : R$ 51.000,00 (Cinquenta e um mil reais)
@@ -1331,7 +1386,8 @@
 -
 -
 -  Valor total do processo: R$ 84.660,00 (Oitenta e quatro mil seiscentos e sessenta reais)
-==========
+",text_55,-1,0.2558115516676379,-0.0608073202422508,1,1
+55,"
 -              HOSPFLEX                                                                         ASSINAM: LEONARDO SILVA PRATES
 -              PAPEL GRAU CIRÚRGICO EMBALAGEM TUBULAR                                           SECRETÁRIO MUNICIPAL DA SAÚDE
 -     03       350MM X 100MT MARCA/ FABRICANTE:                      RL               255,00    MAGALI RIBEIRO REBELLO
@@ -1353,7 +1409,8 @@
 -CONTRATADA: MENDLAB COMÉRCIO E SERVIÇOS TÉCNICOS LTDA - EPP.
 -CNPJ: 14.783.243/0001-58                                                                                                        STELA GLEIDE OLIVEIRA SANTANA
 -VIGÊNCIA: O prazo de vigência será de 01 (um) ano, a contar da data de assinatura.                                                         Coordenadora
-==========
+",text_56,-1,0.2654679481177304,-0.012153979595222264,1,4
+56,"
 -do fundamento legal expressos no presente termo.
 -
 -Os serviços objetos do presente termo serão realizados para a Secretaria Municipal de Saúde através do Fundo Municipal
@@ -1375,7 +1432,8 @@
 -
 -                                                                                                   www.diariomunicipal.es.gov.br
 -21/05/2020 (Quinta-feira)                          DOM/ES - Edição N° 1519                                           Página 238
-==========
+",text_57,-1,0.31738527980920567,0.012592818235306618,1,6
+57,"
 -2      75     1877     50       UND      Soro Anti-B, frasco com 10ml                                          PROTHEMO       18,90           945,00
 -2      76     1878     50       UND      Soro coombs, frasco com 10ml                                          PROTHEMO       25,50           1.275,00
 -2      77     1879     50       UND      Soro tipagem Anti-AB, frasco com 10ml.                                PROTHEMO       18,90           945,00
@@ -1397,7 +1455,8 @@
 -2      90     102157   10000    UND      Tubo de vidro temperado 13x75, 5ml.                                   PRECISION      0,14            1.400,00
 -2      91     243960   900      UND      Tubo tipo falcon estéril, volume 15ml.                                CRALPLAST      0,40            360,00
 -2      93     263166   50       FRASCO   Violeta genciana para coloração de gram, frasco 1000ml                LABORCLIN      21,80           1.090,00
-==========
+",text_58,-1,0.1534084877564546,0.031192228795186808,1,1
+58,"
 -                                         carneiro (1x1,5ml); Soro controle positivo (1x0,5ml); Soro
 -                                         controle negativo (1x1ml); Varetas plásticas (60); Cartões-
 -                                         -teste (2).
@@ -1419,7 +1478,8 @@
 -                                         a realização dos testes: frascos de diluição de amostras,
 -                                         conta-gotas, dispositivos individuais para teste. Preço da
 -                                         caixa com 20 testes
-==========
+",text_59,-1,0.15741619805873638,0.038042697185476974,1,1
+59,"
 -
 -        RESOLVE:                                                           SECRETARIA DE
 -         Art. 1º Fica determinada, através da presente Portaria,           DESENVOLVIMENTO SOCIAL
@@ -1441,7 +1501,8 @@
 -                                                                       Decreto Municipal nº 1.031, de 29 de maio de 2015.
 -         Art. 4º A requisição ora determinada será processada
 -mediante correspondente e justa indenização à empresa                            RESOLVE:
-==========
+",text_60,-1,0.3762846213757147,-0.004826160328546086,6,
+60,"
 -
 -                                                                                                       PROCESSO Nº: 7245/2020
 -                          EMPRESAS                                  LOTES         VALORES (R$)
@@ -1463,7 +1524,8 @@
 -Critério de Julgamento: Menor Preço.
 -DATA DA HOMOLOGAÇÃO: 22/04/2020.                                                                                                         Salvador, 23 de abril de 2020
 -
-==========
+",text_61,-1,0.4330384377695204,-0.17722447691877494,1,1
+61,"
 -
 -                  Art. 1º.Tornar obrigatório a inclusão dos dados referentes ao número do CPF, do
 -CEP, ocupação profissional, data de nascimento, e dos contatos telefônicos do paciente e
@@ -1485,7 +1547,8 @@
 -https://sivepgripe.saude.gov.br/sivepgripe/login.html?0.
 -                  Art. 3º Na ocorrência de óbitos de pacientes que atendam a definição de SRAG em
 -instituição de saúde, se no momento do preenchimento da Declaração de Óbito – D.O., a causa da
-==========
+",text_62,-1,0.15406521383042793,0.22593475517411254,6,
+62,"
 -Pública para o Novo Coronavírus (COE-nCov). Em colaboração com pesquisadores da
 -Universidade Federal de Goiás, foi estruturado um projeto que prevê a realização de
 -inquéritos sucessivos em amostras da população a cada 15 dias, durante os próximos 2 meses,
@@ -1520,7 +1583,8 @@
 -DOM Eletrônico                             Edição Nº 7303, de 22 de maio de 2020.              Página 37 de 101
 -
 -
-==========
+",text_63,-1,0.25506365327759584,0.20183542575440724,6,
+63,"
 -
 -LORRANYE NOGUEIRA DE SOUZA
 -Superintendência de Pesquisa e Compra Direta
@@ -1533,8 +1597,8 @@
 -AVISO DE PESQUISA DE PREÇOS
 :O Município de Colatina-ES torna público a solicitação de pesquisa de preços, cujo objeto é a aquisição de teste rápido para
 -COVID-19 e termômetro sem contato.
--O Termo de Referência e demais esclarecimentos poderão ser solicitados através do e-mail "pmc.comprascolatina@gmail.
--com" ou pelo telefone (27) 3177-7071.
+-O Termo de Referência e demais esclarecimentos poderão ser solicitados através do e-mail ""pmc.comprascolatina@gmail.
+-com"" ou pelo telefone (27) 3177-7071.
 -O prazo para envio das pesquisas de preços dar-se-á até o dia 20 de maio de 2020.
 -
 -
@@ -1542,7 +1606,8 @@
 -Superintendência de Pesquisa e Compra Direta
 -
 -
-==========
+",text_64,-1,0.15167475925848875,0.11970310084832163,3,
+64,"
 -
 -AVISO DE SOLICITAÇÃO DE COTAÇÃO DE PREÇO
 -                                                                                                       Publicação Nº 270093
@@ -1564,7 +1629,8 @@
 -gmail.com; compras.fms@presidentekennedy.es.gov.br
 -
 -
-==========
+",text_65,-1,0.25864752610087227,0.11773336778088875,1,3
+65,"
 -                                STELA GLEIDE OLIVEIRA SANTANA
 -                                         Coordenadora                                                                                                                                 AVISO
 -
@@ -1586,7 +1652,8 @@
 -interessados poderão solicitar maiores informações.                                                                                                                      LEONARDO SILVA PRATES
 -                                                                                                                                                                        Secretário Municipal da Saúde
 -                                  Salvador, 20 de março de 2020
-==========
+",text_66,-1,0.36204763315068594,0.03649149079713409,1,3
+66,"
 -                  RIGIDA
 -
 -                  FACOEMULSIFICAÇÃO C/ IMPLANTE DE LENTE INTRAOCULAR
@@ -1608,7 +1675,8 @@
 -               para substituição do membro da sociedade civil. Após os devidos esclarecimentos, o nome indicado foi
 -               aprovado por unanimidade, ficando o Conselho Fiscal composto na forma transcrita:
 -
-==========
+",text_67,-1,0.0739954424712547,0.13430836158441206,6,
+67,"
 -
 -
 -                                                                                                             www.diariomunicipal.es.gov.br
@@ -1630,7 +1698,8 @@
 -               sangue total, soro ou plasma humano, pela meto-
 -              dologia de imunocromatografia, sendo a imunoglo-
 -                bina igm detectada entre 7(sete) e 10(dez) dias
-==========
+",text_68,-1,0.2247415805266522,0.11330334582839459,1,1
+68,"
 -                   Considerando a Instrução Normativa CGM n° 002/2018 da Controladoria Geral
 -do Município, publicada no Diário Oficial do Município n° 6.748 de 06 de fevereiro de 2018.
 -
@@ -1652,7 +1721,8 @@
 -prorrogação de prazos contratuais evitando que haja a descontinuidade da execução do contrato,
 -sob pena de responsabilização do agente que vier a dar causa.
 -
-==========
+",text_69,-1,0.1813944618894324,0.05379810060973013,6,
+69,"
 -
 -
 -FUNDAMENTO: O presente contrato decorre do artigo no artigo 4º da Lei n.º 13.979/2020,
@@ -1674,7 +1744,8 @@
 -PREÇO: A CONTRATANTE pagará a CONTRATADA o valor referente à prestação de serviços
 -é de R$ 2.468.750,00 (dois milhões, quatrocentos e sessenta e oito mil, setecentos e cinquenta
 -reais).
-==========
+",text_70,-1,0.44813086386748746,-0.10481274679245238,1,1
+70,"
 -   Acha-se aberto na Secretaria Municipal de Saú-          sa(s) vencedora(s), conforme segue:
 -de, o Pregão Eletrônico nº 15.085/2020 – Processo
 -nº 76.490/2019-07, que tem como objeto a seleção             FORCE MEDICAL DISTRIBUIDORA EIRELI - EPP
@@ -1696,7 +1767,8 @@
 -      PERMANENTE DE LICITAÇÃO - SAÚDE                        Santos, 07 de maio de 2020.
 -
 -                                                                     TATHIANA SILVA PEREIRA
-==========
+",text_71,-1,0.2963084222524194,0.09431655852882065,4,
+71,"
 -
 -                  Art. 1º.Tornar obrigatório a inclusão dos dados referentes ao número do CPF, do
 -CEP, ocupação profissional, data de nascimento, e dos contatos telefônicos do paciente e
@@ -1718,7 +1790,8 @@
 -https://sivepgripe.saude.gov.br/sivepgripe/login.html?0.
 -                  Art. 3º Na ocorrência de óbitos de pacientes que atendam a definição de SRAG em
 -instituição de saúde, se no momento do preenchimento da Declaração de Óbito – D.O., a causa da
-==========
+",text_72,-1,0.15406521383042793,0.22593475517411254,6,
+72,"
 -Pública para o Novo Coronavírus (COE-nCov). Em colaboração com pesquisadores da
 -Universidade Federal de Goiás, foi estruturado um projeto que prevê a realização de
 -inquéritos sucessivos em amostras da população a cada 15 dias, durante os próximos 2 meses,
@@ -1753,7 +1826,8 @@
 -DOM Eletrônico                             Edição Nº 7303, de 22 de maio de 2020.              Página 37 de 101
 -
 -
-==========
+",text_73,-1,0.25506365327759584,0.20183542575440724,6,
+73,"
 -                                                                                                                                                                                                                  ANO XXXIII | N º 7.612
 -
 -
@@ -1775,7 +1849,8 @@
 -                                                                                                                           interessados poderão solicitar maiores informações.
 - IONARA RODRIGUES SANTOS              671230239            TLABSMS202070170                    0            19
 -
-==========
+",text_74,-1,0.21670035813360045,0.0654875912119785,3,
+74,"
 -http://dlc.pmf.sc.gov.br. O Pregoeiro.                                   5219/2020 do Comitê Gestor de Governo e no
 -                                                                         Ofício     OE     66/SMS/GAB/ADJ/ACCC/CON/2020
 -                                                                         partes integrantes deste Termo Aditivo. A Cláusula
@@ -1797,7 +1872,8 @@
 -alterada pela Medida Provisória 926, de                                  que equivale à 11,26680% referente ao valor de
 -20/03/2020, os Decretos Estaduais n. 509 de 2020,                        REFORMA. Valor do Acréscimo Quantitativo: R$
 -515 de 2020, 525 de 2020, 535 de 2020, 550 de                            424.295,23 (quatrocentos e vinte e quatro mil,
-==========
+",text_75,-1,0.3461685312720505,-0.03261679344906451,6,
+75,"
 -LOCATÁRIA: Secretaria Municipal de Saúde/Fundo Municipal de Saúde
 -LOCADOR: Cepheid Brasil Importação, Exportação e Comércio de Produtos de Diagnósticos.
 -
@@ -1819,7 +1895,8 @@
 -VALOR DO ADITIVO: A CONTRATANTE pagará a CONTRATADA o valor total de R$
 -17.759,58 (dezessete mil, setecentos e cinquenta e nove reais e cinquenta e oito centavos),
 -reajustado conforme índice do IGP-M de 7,317910% correspondente ao período.
-==========
+",text_76,-1,0.30722309570771766,-0.021367164540066545,6,
+76,"
 -Art. 1º Fica nomeada a Servidora SAMANTA MARIA CAVALCANTI FARIAS, matrícula nº 004767, Coordenadora do ESF,
 -lotada na Secretaria Municipal de Saúde, como Fiscal da nota de empenho abaixo discriminada:
 -
@@ -1841,7 +1918,8 @@
 -
 -Art. 3º Ao Fiscal nomeado fica garantida, pela administração, as condições para o desempenho do encargo, com a devida
 -observância do disposto na Lei Federal nº 8.666/93 e na Instrução Normativa SCL nº 06/2015, sem prejuízo de outros atos
-==========
+",text_77,-1,0.2300018101761614,0.006716643309557325,6,
+77,"
 -AVISO
 -                                                                                                      Publicação Nº 275239
 -
@@ -1863,3 +1941,4 @@
 -
 -
 -Informações pelos telefones: (27) 3745-1549 ou (27) 9 9945-6991
+",text_78,-1,0.21531112894394303,0.5674205554239959,6,
