@@ -2,41 +2,42 @@ import pandas as pd
 import numpy as np
 import pprint 
 import os
+
 import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+
 from sklearn.decomposition import TruncatedSVD
+
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
-import pandas as pd
 import seaborn as sns
 
 
-def get_2d_representation(file_content_splitted):
+def plot_corpus(corpus):
+    """
+    
+    Plots a 2D representation of the corpus.
+    
+    Args:
+        corpus: A list of text documents, each in a separate string. 
+        
+   
+    """
+    print( 'there are ' + str(len(corpus)) + " matches" + '\n')
     vectorizer = TfidfVectorizer(stop_words=nltk.corpus.stopwords.words('portuguese'))
-    X = vectorizer.fit_transform(file_content_splitted)
+    X = vectorizer.fit_transform(corpus)
     SVD = TruncatedSVD(n_components=2).fit(X)
     data2D = SVD.transform(X)
-    return(data2D)
-
-
-
-def plot_corpus(file_content_splitted):
-    n_matches = str(len(file_content_splitted))
-    print( 'there are ' + n_matches + " matches")
-    print('\n')
-    vectorizer = TfidfVectorizer(stop_words=nltk.corpus.stopwords.words('portuguese'))
-    X = vectorizer.fit_transform(file_content_splitted)
-    SVD = TruncatedSVD(n_components=2).fit(X)
-    data2D = SVD.transform(X)
+    
     plt.scatter(data2D[:,0], data2D[:,1])
     plt.show()
     
 def print_tipos():
         print("""
      Tipos possíveis:
-     1 - compra (de ventilador ou acessório)
-     2 - reparo/manutenção (de ventilador ou acessório)
+     1 - compra     
+     2 - reparo
      3 - aviso de convocação para licitação
      4 - registro de preços
      5 - licitação fracassada
@@ -99,3 +100,10 @@ def classificar(df):
     
     return(classes)
     print(classes)
+    
+def get_2d_representation(file_content_splitted):
+    vectorizer = TfidfVectorizer(stop_words=nltk.corpus.stopwords.words('portuguese'))
+    X = vectorizer.fit_transform(file_content_splitted)
+    SVD = TruncatedSVD(n_components=2).fit(X)
+    data2D = SVD.transform(X)
+    return(data2D)
