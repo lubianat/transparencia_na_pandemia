@@ -89,7 +89,9 @@ def classificar(df):
     for i, row in df.iterrows():
         print(row["text"])
         print_tipos()
-        class_of_snippet = input("Qual é o tipo que mais se aproxima desse snippet?")
+        counter = " - " + str(i+1) + "/" + str(len(classes)) 
+        message = "Qual é o tipo que mais se aproxima desse snippet?" + counter
+        class_of_snippet = input(message)
 
         classes[row["id"]] = class_of_snippet
         clear_output()
