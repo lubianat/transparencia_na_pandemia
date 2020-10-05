@@ -51,7 +51,8 @@ def descrever_tipo(classes):
         "3" : "aviso de licitação",
         "4" : "registro de preços",
         "5" : "licitação fracassada",
-        "6" : "outro"}
+        "6" : "outro",
+        "-1": "não anotado"}
     
     return([tipo2name[k] for k in classes])
         
