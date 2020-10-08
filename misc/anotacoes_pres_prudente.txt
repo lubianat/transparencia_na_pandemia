@@ -1,0 +1,43 @@
+Categorização de "entidades"/"objetos" do DOE - Diário Oficial Eletrônico de Presidente Prudente - SP
+
+
+- Atos Administrativos
+    - Editais de Notificações
+
+- Atos oficiais
+    - Decretos
+    - Leis
+    - Portarias
+    - Resoluções
+
+- Contas Públicas e Instrumentos de Gestão Fiscal
+    - Outros Atos
+
+- Outros Atos
+    - Diversos
+
+- Licitações: Concorrência / Tomada de Preços / Convite / Leilão
+    - Aviso de Abertura
+
+- Licitações: Pregão e Contratos
+    - Extrato de contrato
+
+- Atos de Pessoal
+    - Nomeação de servidor
+
+- Concursos Públicos / Processos Seletivos
+    - Convocações diversas
+
+- Atos Legislativos
+    - Resolução
+    - Atos de Mesa
+
+
+5537 
+1
+100
+
+
+
+
+
