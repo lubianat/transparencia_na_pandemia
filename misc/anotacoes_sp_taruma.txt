@@ -1,0 +1,43 @@
+Municipio: Tarumã - SP
+Site: https://www.gdoe.com.br/taruma
+
+Categorização de "entidades"/"objetos" do DOE - Diário Oficial Eletrônico.
+
+- Atos Administrativos
+    - Editais de notificações
+
+- Atos Oficiais
+    - Decretos
+    - Leis
+    - Portarias
+
+- Atos Legislativos
+    - Portarias
+    - Decretos Legislativos
+
+- Atos de Pessoal
+    - Outros atos
+
+- Outros Atos
+    - Diversos
+
+- Licitações: Pregão e Contratos
+    - Aviso de abertura do certame
+    - Outros atos
+    - Termo de Aditamento
+    - Extrato de contrato
+    - Homologação
+
+- Licitações: Concorrência / Tomada de Preços / Convite / Leilão
+    - Contrato / extratos
+    - Dispensa de Licitação
+    - Inexigibilidade de Licitação
+    - Homologação
+
+- Contas Públicas e Instrumentos de Gestão Fiscal
+    - Demonstrativo de receitas e despesas
+    - Relatório Resumido da Execução Orçamentária (RREO)
+    - Relatório de Gestão Fiscal (RGF)
+    - Outros atos
+
+

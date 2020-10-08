@@ -1,0 +1,41 @@
+Municipio: Ipaussu - SP
+Site: https://www.gdoe.com.br/ipaussu
+
+Categorização de "entidades"/"objetos" do DOE - Diário Oficial Eletrônico.
+
+- Atos Administrativos
+    - Outros Atos
+    - Convênios
+
+- Atos Oficiais
+    - Leis
+    - Decretos
+    - Portarias
+
+- Atos Legislativos
+    - Outros Atos
+    - Portarias
+
+- Licitações: Pregão e Contratos
+    - Extrato de contrato
+
+- Outros Atos
+    - Diversos
+
+- Licitações: Pregão e Contratos
+    - Aviso de abertura do certame
+
+- Contas Públicas e Instrumentos de Gestão Fiscal
+    - Demonstrativo de receitas e despesas
+    - Tributos arrecadados
+
+- Licitações: Pregão e Contratos
+    - Impugnação do edital
+    - Outros atos
+
+
+- Licitações: Concorrência / Tomada de Preços / Convite / Leilão
+    - Outros atos
+    - Aviso de abertura
+    - Parecer e deliberações da comissão julgadora
+

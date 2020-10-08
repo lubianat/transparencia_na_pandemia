@@ -1,0 +1,32 @@
+Municipio: Assis - SP
+Site: https://www.gdoe.com.br/assis
+
+Categorização de "entidades"/"objetos" do DOE - Diário Oficial Eletrônico.
+
+- Atos Administrativos
+    - Extratos
+    - Editais de notificações
+
+- Atos Oficiais
+    - Resoluções
+    - Decretos
+    - Leis
+
+- Atos Legislativos
+    - Atos da Mesa
+
+- Atos de Pessoal
+    - Aposentadoria
+    - Exoneração
+
+- Outros Atos
+    - Diversos
+
+- Licitações: Pregão e Contratos
+    - Aviso de abertura do certame
+
+- Concursos Públicos / Processos Seletivos
+    - Resultado dos aprovados
+    - Edital de concurso público
+    - Convocações diversas
+
