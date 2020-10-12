@@ -5,12 +5,15 @@
 import pytest
 from salvador_extractor import salvador_extractor
 
+with open("tests/test_deal.txt", "r") as f:
+    test_deal = f.read()
+
 
 def test_content():
 
-    deal = salvador_extractor.gazetteDeal("test")
+    deal = salvador_extractor.gazetteDeal(test_deal)
 
-    expected = "test"
+    expected = test_deal
     result = deal.filetext
 
     assert result == expected
@@ -18,10 +21,7 @@ def test_content():
 
 def test_process():
 
-    deal = salvador_extractor.gazetteDeal("""
-    -PROCESSO Nº: 6567/2020
-    -
-    """)
+    deal = salvador_extractor.gazetteDeal(test_deal)
     
     deal.get_process()
     
@@ -33,10 +33,7 @@ def test_process():
 
 def test_company():
 
-    deal = salvador_extractor.gazetteDeal("""
-    -CONTRATADA: PMH PRODUTOS MÉDICOS HOSPITALARES LTDA
-    -
-    """)
+    deal = salvador_extractor.gazetteDeal(test_deal)
     
     deal.get_company()
     
