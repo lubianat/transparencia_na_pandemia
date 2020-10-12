@@ -1,5 +1,5 @@
 """Main module."""
-
+import re
 
 class gazetteDeal():
     """
@@ -12,6 +12,13 @@ class gazetteDeal():
 
     def __init__(self, filetext):
         self.filetext = filetext
+        self.process = ""
 
-    
+    def get_process(self):
+        pattern = r'PROCESSO Nº: ([0-9/]+)'
+        
+        text = self.filetext
+        match = re.findall(pattern, text)
+
+        self.process = match[0]
 
