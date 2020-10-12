@@ -30,3 +30,17 @@ def test_process():
 
     assert result == expected
 
+
+def test_company():
+
+    deal = salvador_extractor.gazetteDeal("""
+    -CONTRATADA: PMH PRODUTOS MÉDICOS HOSPITALARES LTDA
+    -
+    """)
+    
+    deal.get_company()
+    
+    expected = "PMH PRODUTOS MÉDICOS HOSPITALARES LTDA"
+    result = deal.company
+
+    assert result == expected

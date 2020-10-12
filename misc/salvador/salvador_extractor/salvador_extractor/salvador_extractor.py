@@ -8,6 +8,7 @@ class gazetteDeal():
     Attributes:
        filetext: A string containing the text of the deal
        process: A string containing the process number
+       company: A string containing the name of the company that got the deal
     """
 
     def __init__(self, filetext):
@@ -21,4 +22,12 @@ class gazetteDeal():
         match = re.findall(pattern, text)
 
         self.process = match[0]
+
+    def get_company(self):
+        pattern = r'CONTRATADA: ([a-zA-Z à-úÀ-Ú]+)'
+        
+        text = self.filetext
+        match = re.findall(pattern, text)
+
+        self.company = match[0]
 
