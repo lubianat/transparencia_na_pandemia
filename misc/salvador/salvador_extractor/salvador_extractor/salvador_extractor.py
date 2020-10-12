@@ -48,7 +48,7 @@ class gazetteDeal():
 
    
     def get_object(self):
-        pattern = 'OBJETO: ([\w\W]*)-VALOR'
+        pattern = r'OBJETO: ([\w\W]*)-VALOR'
         
         text = self.filetext
         match = re.findall(pattern, text, flags=re.DOTALL)
