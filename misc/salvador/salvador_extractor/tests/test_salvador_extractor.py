@@ -41,3 +41,30 @@ def test_company():
     result = deal.company
 
     assert result == expected
+
+
+def test_company_id():
+
+    deal = salvador_extractor.gazetteDeal(test_deal)
+    
+    deal.get_company_id()
+    
+    expected = "00.740.696/0001-92"
+    result = deal.company_id
+
+    assert result == expected
+
+
+def test_object():
+
+    deal = salvador_extractor.gazetteDeal(test_deal)
+    
+    deal.get_object()
+    
+    expected = """Aquisição de Kit para Laboratório: Teste rápido IGM/IGG para coronavirus, para garantir
+-o atendimento do Laboratório Central / SMS, no combate ao COVID-19, conforme CI DGAS / LAB.
+-CENTRAL Nº 033/2020
+"""
+    result = deal.object
+
+    assert result == expected
