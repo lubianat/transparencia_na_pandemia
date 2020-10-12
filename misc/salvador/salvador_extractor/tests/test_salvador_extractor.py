@@ -68,3 +68,14 @@ def test_object():
     result = deal.object
 
     assert result == expected
+
+def test_date():
+
+    deal = salvador_extractor.gazetteDeal(test_deal)
+    
+    deal.get_date()
+    
+    expected = "25/05/2020"
+    result = deal.date
+
+    assert result == expected
