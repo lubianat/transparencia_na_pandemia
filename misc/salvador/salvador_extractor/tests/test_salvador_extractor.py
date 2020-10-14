@@ -79,3 +79,14 @@ def test_date():
     result = deal.date
 
     assert result == expected
+
+def test_value():
+
+    deal = salvador_extractor.gazetteDeal(test_deal)
+    
+    deal.get_value()
+    
+    expected = "4.375.000,00"
+    result = deal.date
+
+    assert result == expected

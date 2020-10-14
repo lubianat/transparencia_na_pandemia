@@ -12,6 +12,7 @@ class gazetteDeal():
        company_id: A string containing the Brazilian national ID (CNPJ) of the company that got the deal
        object:  A string containing the object aquired in the deal
        date: A string containing the date that the deal
+       value: A string containing the value of the deal
 
     """
 
@@ -39,7 +40,7 @@ class gazetteDeal():
 
     
     def get_company_id(self):
-        pattern = r'CNPJ: ([0-9/.-]+)'
+        pattern = r'CNPJ:[ ]([0-9/.-]+)'
         
         text = self.filetext
         match = re.findall(pattern, text)
@@ -48,7 +49,7 @@ class gazetteDeal():
 
    
     def get_object(self):
-        pattern = r'OBJETO: ([\w\W]*)-VALOR'
+        pattern = r'OBJETO: ([\w\W]*?)VALOR'
         
         text = self.filetext
         match = re.findall(pattern, text, flags=re.DOTALL)
@@ -64,5 +65,12 @@ class gazetteDeal():
 
         self.date = match[0]
 
-    
 
+
+    def get_value(self):
+        pattern = r'VALOR GLOBAL: R$ ([0-9]*)'
+        
+        text = self.filetext
+        match = re.findall(pattern, text)
+
+        self.date = match[0]
