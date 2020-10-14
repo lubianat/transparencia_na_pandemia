@@ -39,7 +39,7 @@ class gazetteDeal():
 
     
     def get_company_id(self):
-        pattern = r'CNPJ: ([0-9/.-]+)'
+        pattern = r'CNPJ:[ ]([0-9/.-]+)'
         
         text = self.filetext
         match = re.findall(pattern, text)
@@ -48,7 +48,7 @@ class gazetteDeal():
 
    
     def get_object(self):
-        pattern = r'OBJETO: ([\w\W]*)-VALOR'
+        pattern = r'OBJETO: ([\w\W]*?)VALOR'
         
         text = self.filetext
         match = re.findall(pattern, text, flags=re.DOTALL)
