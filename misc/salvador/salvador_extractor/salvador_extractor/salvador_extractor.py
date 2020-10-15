@@ -68,7 +68,7 @@ class gazetteDeal():
 
 
     def get_value(self):
-        pattern = r'VALOR GLOBAL: R$ ([0-9]*)'
+        pattern = r'VALOR GLOBAL: R\$ ([0-9.,]*)'
         
         text = self.filetext
         match = re.findall(pattern, text)
