@@ -64,7 +64,7 @@ def test_object():
     expected = """Aquisição de Kit para Laboratório: Teste rápido IGM/IGG para coronavirus, para garantir
 -o atendimento do Laboratório Central / SMS, no combate ao COVID-19, conforme CI DGAS / LAB.
 -CENTRAL Nº 033/2020
-"""
+-"""
     result = deal.object
 
     assert result == expected
