@@ -1,0 +1,2 @@
+[databases]
+socios_file = "../../../datasets/socios-brasil/data/socios-brasil2.sqlite"
