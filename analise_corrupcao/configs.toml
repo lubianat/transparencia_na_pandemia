@@ -1,2 +1,4 @@
 [databases]
 socios_file = "../../../datasets/socios-brasil/data/socios-brasil2.sqlite"
+eleicoes_file = "../../../datasets/eleicoes-brasil/receita-eleicao-16.sqlite"
+

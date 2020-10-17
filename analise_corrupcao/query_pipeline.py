@@ -17,8 +17,16 @@ def create_sqlite_connection(db_file:str):
         LOGGER.info(f"Database {db_file} connected successfully")
     except Exception as e:
         LOGGER.error(f"Error while trying to connect to database {db_file}.\n{e}")
+        sys.exit(0)
 
     return conn
+
+
+
+def query_on_database(conn, query):
+    cursor = conn.cursor()
+    cursor.execute(query)
+    return cursor.fetchall()
 
 
 def query_cpf_cnpj_from_socios(conn:sqlite3.Connection, cpf_cnpj:str, fields:list=[], limit:int=-1):
@@ -37,16 +45,33 @@ def query_cpf_cnpj_from_socios(conn:sqlite3.Connection, cpf_cnpj:str, fields:lis
     fields = '*' if len(fields)==0 else ",".join(fields)
     limit  = ""  if limit == -1 else f"LIMIT {limit}"
 
+    if len(cpf_cnpj) < 14:
+        cpf_cnpj = f"***{cpf_cnpj[3:9]}**"
+
+
     query = f"""SELECT {fields} FROM socio s
-                WHERE s.cnpj_cpf_do_socio LIKE '{cpf_cnpj}' {limit};"""
+                WHERE s.cnpj LIKE '{cpf_cnpj}'
+                  OR  s.cnpj_cpf_do_socio LIKE '{cpf_cnpj}' {limit};"""
 
     LOGGER.info(f"Running query:\n{query}")
 
-    cursor = conn.cursor()
-    cursor.execute(query)
-    result = cursor.fetchall()
 
-    for row in result:
+    for row in query_on_database(conn, query):
+        yield row
+
+
+def query_cpf_cnpj_from_election(conn:sqlite3.Connection, cpf_cnpj:str, fields:list=[], limit:int=-1):
+    fields = '*' if len(fields)==0 else ",".join(fields)
+    limit  = ""  if limit == -1 else f"LIMIT {limit}"
+
+    cpf_cnpj = cpf_cnpj.strip('*')
+    query = f"""SELECT {fields} FROM receita r
+                WHERE r.cpf_cnpj_doador like '{cpf_cnpj}' {limit}"""
+
+
+    LOGGER.info(f"Running query:\n{query}")
+
+    for row in query_on_database(conn, query):
         yield row
 
 
@@ -54,13 +79,27 @@ def main():
     config_file = sys.argv[1]
     configs = toml.load(config_file)
 
-    socios_db_file = configs["databases"]["socios_file"]
+    business_part_db_file  = configs["databases"]["socios_file"]
+    elections_db_file = configs["databases"]["eleicoes_file"]
 
-    socios_db_conn = create_sqlite_connection(socios_db_file)
+    business_part_db_conn  = create_sqlite_connection(business_part_db_file)
+    election_db_conn = create_sqlite_connection(elections_db_file)
 
-    with socios_db_conn as conn:
-        for socio in query_cpf_cnpj_from_socios(conn, "***019378**", ["cnpj", "nome_socio", "cnpj_cpf_do_socio"], 5):
-            print(socio)
+
+    #  cpf = "04160131000197"
+    cpf = "58560432272"
+    with business_part_db_conn as conn:
+        fields = ["cnpj", "nome_socio", "cnpj_cpf_do_socio"]
+        for business_part in query_cpf_cnpj_from_socios(conn, cpf, fields,  5):
+            print(business_part)
+
+
+    print('\n\n')
+
+    with election_db_conn as conn:
+        fields = ['cpf_cnpj_doador', 'setor_economico_doador', 'data', 'tipo_recurso', 'valor', 'descricao']
+        for donation in query_cpf_cnpj_from_election(conn, cpf, fields):
+            print(donation)
 
 
 if __name__ == "__main__":
