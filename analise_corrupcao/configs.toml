@@ -1,4 +1,4 @@
 [databases]
 socios_file = "../../../datasets/socios-brasil/data/socios-brasil2.sqlite"
 eleicoes_file = "../../../datasets/eleicoes-brasil/receita-eleicao-16.sqlite"
-
+compras_csv = "../../../datasets/diarios/entidades/ba_salvador.csv"
