@@ -12,5 +12,9 @@ def get_cnpjs(text):
         cnpjs: A list of all CNPJs in the string
 
     """
-    cnpjs = []
+
+    pattern = r'\d{2}\.\d{3}\.\d{3}/\d{4}\-\d{2}'
+    match = re.findall(pattern, text)
+    cnpjs = match
+    
     return(cnpjs)
