@@ -1,5 +1,6 @@
 """Main module."""
 import re
+import pandas as pd
 
 def get_cnpjs(text):
     """
@@ -36,19 +37,22 @@ def get_cnpjs_from_folder(folder):
     from itertools import zip_longest 
     import glob 
  
-# Find all *.txt files in the directory 
+    # Find all *.txt files in the directory 
     file_name_list = glob.glob(folder + "/"+ '*.txt') 
     cnpjs_holder = {}
-
 
     for each_file in file_name_list:
         with open(each_file, "r") as f:
             text = f.read()
         cnpjs = get_cnpjs(text)
-
         cnpjs_holder[each_file] = cnpjs
+
+    # From https://stackoverflow.com/questions/50751184/pandas-dataframe-from-dictionary-of-list-values
+    cnpjs_df = pd.DataFrame([(key, var) for (key, L) in cnpjs_holder.items() for var in L], 
+                 columns=['key', 'variable'])
+    cnpjs_df.columns = ['text', 'cnpj']
+
+    # From https://stackoverflow.com/questions/35584085/how-to-count-duplicate-rows-in-pandas-dataframe
+    cnpjs_df = cnpjs_df.groupby(cnpjs_df.columns.tolist()).size().reset_index().rename(columns={0:'count'})
     
-    print(cnpjs_holder)
- 
-   
-    return(cnpjs)
+    return(cnpjs_df)
