@@ -1,4 +1,4 @@
-"""Top-level package for CPF Extractor."""
+"""Top-level package for CNPJ Extractor."""
 
 __author__ = """Tiago Lubiana"""
 __email__ = 'tiago.lubiana.alves@usp.br'

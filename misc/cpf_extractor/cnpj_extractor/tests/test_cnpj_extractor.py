@@ -24,10 +24,10 @@ def test_that_it_get_cnpjs_for_all_files():
 
 def test_cnpj_checker():
     expected = True
-    result = cnpj_extractor.Cnpj().validate('53.612.734/0001-98')
+    result = cnpj_extractor.check_cnpj('53.612.734/0001-98')
     assert expected == result
 
     expected = False
-    result = cnpj_extractor.Cnpj().validate('53.612.734/0001-99')
+    result = cnpj_extractor.check_cnpj('53.612.734/0001-99')
     assert expected == result
 
