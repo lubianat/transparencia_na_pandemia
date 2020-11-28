@@ -10,6 +10,12 @@ Busca no Google Academico por "Diários oficiais" e triagem manual de artigos po
 
 ## Diários municipais
 
+### INFORMAÇÃO PÚBLICA DIGITAL NOS MUNICÍPIOS BAIANOS COM MAIS DE 100 MIL HABITANTES: UMA ANÁLISE DOS DIÁRIOS OFICIAIS (JAQUELINE SILVA DE SOUZA, 2018)
+[link do repositório da UFBA](
+[link da dissertação](https://repositorio.ufba.br/ri/bitstream/ri/28147/3/Disserta%c3%a7%c3%a3o%20Vers%c3%a3o%20Final-%20Jaqueline%20Souza.%20RI.pdf)
+
+Trabalho extenso e bonito sobre o estado dos diários eletronicos no Brasil em 2018. 
+Análise profunda dos municípios da Bahia. 
 
 ## Diários estaduais
 
