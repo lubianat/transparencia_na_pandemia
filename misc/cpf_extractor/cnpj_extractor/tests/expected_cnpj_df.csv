@@ -1,0 +1,6 @@
+text,cnpj,count
+tests/test_deal.txt,"00.740.696/0001-92",2
+tests/test_file.txt,"03.435.599/0002-65",1
+tests/test_file.txt,"20.247.212/0001-85",1
+tests/test_file.txt,"34.846.750/0001-09",1
+
