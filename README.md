@@ -90,7 +90,7 @@ por isso, nenhum dos modelos conseguiu obter um resultado satisfatório.
 
 ## Análises bem sucedidas e resultados
 
-PDado o contexto do projeto e todas as limitações que os dados impõem nos tipos
+Dado o contexto do projeto e todas as limitações que os dados impõem nos tipos
 de análise que podem ser feitas, foi desenvolvido uma abordagem de análises
 mais simples. A ideia é usar os
 [CNPJs](https://gitlab.com/transparencia_na_pandemia/mac6967/-/blob/master/misc/cpf_extractor/cnpj_extractor/cnpj_extractor/cnpj_extractor.py)
